@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="2.5" group="content" method="upgrade">
+  <name>Content - Jctypo - Google material typography</name>
+  <creationDate>17-Mar-2017</creationDate>
+  <author>joomla central team</author>
+  <authorEmail>info@joomlacentral.com</authorEmail>
+  <authorUrl>joomlacentral.com</authorUrl>
+  <copyright>joomlacentral.com</copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <version>1.0</version>
+  <updateservers>
+
+    <server type="extension" priority="1" name="Joomlacentral Update Server">http://joomlacentral.com/update/plg_jctypo/extension.xml</server>
+    <server type="collection" priority="2" name="Joomlacentral Update Server">http://joomlacentral.com/update/plg_jctypo/extension.xml</server>
+ </updateservers>
+  <description><![CDATA[ <div style="background:#FFF; padding:10px">
+	<div style="padding:10px 0; text-align:center ; border-bottom:1px solid #ebebeb"><a href="http://joomlacentral.com" target="_blank"><img src="http://www.topjoomina.ir/do.php?imgf=05e7daeb6ba71.png" alt="joomlacentral.com" /></a></div>
+    <p>Jctypo is the content plugin which add extra CSS to your content with many styles. sometime you need you divide part of content for more attention and some time you need to make you content beauty in simple way . With this plugin, you don't need to put any hard coded css anymore into your template css just to get an extra css styling for your content. Just install and publish it and get your extra css easily with adding Jctypo tags between your text.This plugin Designed based on material concept and it is full responsive.</p>
+    <div style="padding:10px 0; text-align:center ; border-top:1px solid #ebebeb; text-align:center">Please Read Documantation on <a style="color:#9C27B0" href="http://Joomlacentral.com" target="_blank">Joomlacentral.com</a></div>
+</div> ]]></description>
+  <files folder="site">
+    <filename plugin="jctypo">jctypo.php</filename>
+	<filename plugin="jctypo">jctypo.css</filename>
+  </files>
+  <params/>
+  <config/>
+</extension>

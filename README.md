@@ -1,0 +1,2 @@
+# typo_plugin
+ Jctypo is the content plugin which add extra CSS to your content with many styles. sometime you need you divide part of content for more attention and some time you need to make you content beauty in simple way . With this plugin, you don't need to put any hard coded css anymore into your template css just to get an extra css styling for your content. Just install and publish it and get your extra css easily with adding Jctypo tags between your text.This plugin Designed based on material concept and it is full responsive

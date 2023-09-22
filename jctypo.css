@@ -1,0 +1,134 @@
+@charset "utf-8";
+.jctypo_shadow {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+	text-align:justify;
+	margin:10px 0;
+	clear:both }
+.jctypo_shadow a {
+	font-weight:bold;
+	color:#FFF}
+.jctypo_alert  {
+	background:#F44336;
+	color:#FFF;
+	padding:10px;
+	margin-top:5px;}
+.alertb {
+	width:100%;
+	background:#C62828;
+	height:10px;
+	}
+.jctypo_info  {
+	background:#00BCD4;
+	color:#FFF;
+	padding:10px;
+	}
+.infob {
+	width:100%;
+	background:#00838F;
+	height:10px;
+	}
+.jctypo_warning  {
+	background:#FF9800;
+	color:#FFF;
+	padding:10px;
+	}
+.warningb {
+	width:100%;
+	background:#EF6C00;
+	height:10px;
+	}
+.jctypo_download {
+	background:#4CAF50;
+	color:#FFF;
+	padding:10px;
+
+	}
+.downloadb{
+	width:100%;
+	background:#2E7D32;
+	height:10px;
+	}
+.jctypo_sticky {
+	background:#f7f7f7;
+	color:#424242;
+	padding:10px;
+
+	}
+.stickyb {
+	width:100%;
+	background:#BDBDBD;
+	height:10px;
+	}
+.jctypo_code pre {
+	border-left:10px #81D4FA solid;
+	border-radius:0 !important;
+	padding:10px;
+	font-family: "Courier New", Courier, monospace;
+	font-size:16px;
+	text-align:left;
+	direction:ltr;
+	line-height:25px;}
+.jctypo_code {
+	margin:5px 0 ;
+	background:#F5F5F5}
+.jctypo_codephp pre {
+	text-align:left;
+	direction:ltr}
+.jctypo_rounded1 {
+	background:#424242;
+	color:#FFF;
+	padding:10px}
+.jctypo_rounded1b {
+	width:100%;
+	background:#000;
+	height:15px;}
+.jctypo_rounded2 {
+	background:#E91E63;
+	color:#FFF;
+	padding:10px}
+.jctypo_rounded2b {
+	width:100%;
+	background:#AD1457;
+	height:15px;}
+.jctypo_rounded3 {
+	background:#03A9F4;
+	color:#FFF;
+	padding:10px}
+.jctypo_rounded3b {
+	width:100%;
+	background:#0277BD;
+	height:15px;}
+.jctypo_rounded4 {
+	background:#C0CA33;
+	color:#FFF;
+	padding:10px}
+.jctypo_rounded4b {
+	width:100%;
+	background:#9E9D24;
+	height:15px;}
+.jctypo_list ul, .jctypo_list ul li {
+	padding:0; margin:0}
+.jctypo_list ul {
+
+	padding-top:5px;
+	border-bottom:10px solid #F4511E;
+	margin:10px 0}
+
+.jctypo_list ul li {
+	padding:10px;
+	border-bottom:#ebebeb 1px solid;
+	-webkit-transition: all 0.4s ease;
+-moz-transition: all 0.4s ease;
+-ms-transition: all 0.4s ease;
+-o-transition: all 0.4s ease;
+transition: all 0.4s ease;
+	}
+.jctypo_list {
+	width:95%;
+	margin:0 auto;
+	 box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);}
+.jctypo_list ul li:last-child {
+	border:none}
+.jctypo_list ul li:hover
+{	background-color: #efefef;}
